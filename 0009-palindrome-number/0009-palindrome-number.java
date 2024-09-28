@@ -7,7 +7,7 @@ class Solution {
             sum = (sum * 10) + r;
             x = x / 10;
         }
-        
+    
         
         // if(temp == sum) {            
         //     return true;
