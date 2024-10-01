@@ -11,7 +11,6 @@ class Solution {
         return new int[0];  // Return an empty array if no solution is found
     }
     
-    
 }
 
 
