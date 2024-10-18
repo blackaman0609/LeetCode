@@ -7,6 +7,7 @@ class Solution {
                     return new int[]{i, j};  // Return the indices of the two numbers
                 }
             }
+            
         }
         return new int[0];  // Return an empty array if no solution is found
     }
