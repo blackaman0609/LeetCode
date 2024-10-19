@@ -33,6 +33,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/blackaman0609/LeetCode/tree/master/0002-add-two-numbers) |
+| [1667-find-kth-bit-in-nth-binary-string](https://github.com/blackaman0609/LeetCode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 ## Two Pointers
 |  |
 | ------- |
@@ -71,4 +72,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/blackaman0609/LeetCode/tree/master/0029-divide-two-integers) |
+## String
+|  |
+| ------- |
+| [1667-find-kth-bit-in-nth-binary-string](https://github.com/blackaman0609/LeetCode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
+## Simulation
+|  |
+| ------- |
+| [1667-find-kth-bit-in-nth-binary-string](https://github.com/blackaman0609/LeetCode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 <!---LeetCode Topics End-->
