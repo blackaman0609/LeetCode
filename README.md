@@ -17,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0119-pascals-triangle-ii](https://github.com/blackaman0609/LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/blackaman0609/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/blackaman0609/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1940-maximum-xor-for-each-query](https://github.com/blackaman0609/LeetCode/tree/master/1940-maximum-xor-for-each-query) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/blackaman0609/LeetCode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/blackaman0609/LeetCode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [3291-find-if-array-can-be-sorted](https://github.com/blackaman0609/LeetCode/tree/master/3291-find-if-array-can-be-sorted) |
@@ -83,6 +84,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/blackaman0609/LeetCode/tree/master/0029-divide-two-integers) |
+| [1940-maximum-xor-for-each-query](https://github.com/blackaman0609/LeetCode/tree/master/1940-maximum-xor-for-each-query) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/blackaman0609/LeetCode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [3291-find-if-array-can-be-sorted](https://github.com/blackaman0609/LeetCode/tree/master/3291-find-if-array-can-be-sorted) |
 ## String
@@ -120,4 +122,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/blackaman0609/LeetCode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
+## Prefix Sum
+|  |
+| ------- |
+| [1940-maximum-xor-for-each-query](https://github.com/blackaman0609/LeetCode/tree/master/1940-maximum-xor-for-each-query) |
 <!---LeetCode Topics End-->
