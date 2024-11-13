@@ -20,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1940-maximum-xor-for-each-query](https://github.com/blackaman0609/LeetCode/tree/master/1940-maximum-xor-for-each-query) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/blackaman0609/LeetCode/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/blackaman0609/LeetCode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/blackaman0609/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2716-prime-subtraction-operation](https://github.com/blackaman0609/LeetCode/tree/master/2716-prime-subtraction-operation) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/blackaman0609/LeetCode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [3291-find-if-array-can-be-sorted](https://github.com/blackaman0609/LeetCode/tree/master/3291-find-if-array-can-be-sorted) |
@@ -52,17 +53,20 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0026-remove-duplicates-from-sorted-array](https://github.com/blackaman0609/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/blackaman0609/LeetCode/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/blackaman0609/LeetCode/tree/master/0088-merge-sorted-array) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/blackaman0609/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
 ## Binary Search
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/blackaman0609/LeetCode/tree/master/0035-search-insert-position) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/blackaman0609/LeetCode/tree/master/2179-most-beautiful-item-for-each-query) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/blackaman0609/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2716-prime-subtraction-operation](https://github.com/blackaman0609/LeetCode/tree/master/2716-prime-subtraction-operation) |
 ## Sorting
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/blackaman0609/LeetCode/tree/master/0088-merge-sorted-array) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/blackaman0609/LeetCode/tree/master/2179-most-beautiful-item-for-each-query) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/blackaman0609/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3291-find-if-array-can-be-sorted](https://github.com/blackaman0609/LeetCode/tree/master/3291-find-if-array-can-be-sorted) |
 ## Divide and Conquer
 |  |
