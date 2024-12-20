@@ -71,6 +71,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/blackaman0609/LeetCode/tree/master/0002-add-two-numbers) |
+| [0206-reverse-linked-list](https://github.com/blackaman0609/LeetCode/tree/master/0206-reverse-linked-list) |
 ## Math
 |  |
 | ------- |
@@ -84,6 +85,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/blackaman0609/LeetCode/tree/master/0002-add-two-numbers) |
+| [0206-reverse-linked-list](https://github.com/blackaman0609/LeetCode/tree/master/0206-reverse-linked-list) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/blackaman0609/LeetCode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 ## Two Pointers
 |  |
