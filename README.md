@@ -17,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0118-pascals-triangle](https://github.com/blackaman0609/LeetCode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/blackaman0609/LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0169-majority-element](https://github.com/blackaman0609/LeetCode/tree/master/0169-majority-element) |
+| [0494-target-sum](https://github.com/blackaman0609/LeetCode/tree/master/0494-target-sum) |
 | [0780-max-chunks-to-make-sorted](https://github.com/blackaman0609/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
 | [0787-sliding-puzzle](https://github.com/blackaman0609/LeetCode/tree/master/0787-sliding-puzzle) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/blackaman0609/LeetCode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
@@ -158,6 +159,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0118-pascals-triangle](https://github.com/blackaman0609/LeetCode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/blackaman0609/LeetCode/tree/master/0119-pascals-triangle-ii) |
+| [0494-target-sum](https://github.com/blackaman0609/LeetCode/tree/master/0494-target-sum) |
 | [0787-sliding-puzzle](https://github.com/blackaman0609/LeetCode/tree/master/0787-sliding-puzzle) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/blackaman0609/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [2164-two-best-non-overlapping-events](https://github.com/blackaman0609/LeetCode/tree/master/2164-two-best-non-overlapping-events) |
@@ -304,6 +306,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Backtracking
 |  |
 | ------- |
+| [0494-target-sum](https://github.com/blackaman0609/LeetCode/tree/master/0494-target-sum) |
 | [0787-sliding-puzzle](https://github.com/blackaman0609/LeetCode/tree/master/0787-sliding-puzzle) |
 ## Breadth-First Search
 |  |
