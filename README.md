@@ -146,6 +146,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/blackaman0609/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0404-sum-of-left-leaves](https://github.com/blackaman0609/LeetCode/tree/master/0404-sum-of-left-leaves) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/blackaman0609/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [3058-maximum-number-of-k-divisible-components](https://github.com/blackaman0609/LeetCode/tree/master/3058-maximum-number-of-k-divisible-components) |
 ## Binary Search Tree
@@ -156,6 +157,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/blackaman0609/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0404-sum-of-left-leaves](https://github.com/blackaman0609/LeetCode/tree/master/0404-sum-of-left-leaves) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/blackaman0609/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
 ## Dynamic Programming
 |  |
@@ -206,6 +208,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Depth-First Search
 |  |
 | ------- |
+| [0404-sum-of-left-leaves](https://github.com/blackaman0609/LeetCode/tree/master/0404-sum-of-left-leaves) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/blackaman0609/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/blackaman0609/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [2201-valid-arrangement-of-pairs](https://github.com/blackaman0609/LeetCode/tree/master/2201-valid-arrangement-of-pairs) |
@@ -317,6 +320,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Breadth-First Search
 |  |
 | ------- |
+| [0404-sum-of-left-leaves](https://github.com/blackaman0609/LeetCode/tree/master/0404-sum-of-left-leaves) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/blackaman0609/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0787-sliding-puzzle](https://github.com/blackaman0609/LeetCode/tree/master/0787-sliding-puzzle) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/blackaman0609/LeetCode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
