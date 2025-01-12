@@ -1,12 +1,19 @@
 class Solution {
-    public int missingNumber(int[] arr) {
-        int n = arr.length;
-        int s1 = n * (n + 1) / 2;
-        int s2 = 0;
-        for (int a : arr) {
-            s2 = s2 + a;
+    public int missingNumber(int[] nums) {
+        int n = nums.length;
+        for (int i = 0; i <= n; i++) {
+            int flag = 0;
+            for (int j = 0; j <= n - 1; j++) {
+                if (i == nums[j]) {
+                    flag = 1;
+                    break;
+                }
+            }
+            if (flag == 0) {
+                return i;
+            }
         }
-        return s1-s2;
+        return -1;
     }
 }
 
