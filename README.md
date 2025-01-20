@@ -20,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0119-pascals-triangle-ii](https://github.com/blackaman0609/LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0169-majority-element](https://github.com/blackaman0609/LeetCode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/blackaman0609/LeetCode/tree/master/0268-missing-number) |
+| [0407-trapping-rain-water-ii](https://github.com/blackaman0609/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [0485-max-consecutive-ones](https://github.com/blackaman0609/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0494-target-sum](https://github.com/blackaman0609/LeetCode/tree/master/0494-target-sum) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/blackaman0609/LeetCode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
@@ -263,6 +264,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Matrix
 |  |
 | ------- |
+| [0407-trapping-rain-water-ii](https://github.com/blackaman0609/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [0787-sliding-puzzle](https://github.com/blackaman0609/LeetCode/tree/master/0787-sliding-puzzle) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/blackaman0609/LeetCode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/blackaman0609/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
@@ -344,6 +346,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0407-trapping-rain-water-ii](https://github.com/blackaman0609/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/blackaman0609/LeetCode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1917-maximum-average-pass-ratio](https://github.com/blackaman0609/LeetCode/tree/master/1917-maximum-average-pass-ratio) |
 | [2164-two-best-non-overlapping-events](https://github.com/blackaman0609/LeetCode/tree/master/2164-two-best-non-overlapping-events) |
@@ -376,6 +379,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0404-sum-of-left-leaves](https://github.com/blackaman0609/LeetCode/tree/master/0404-sum-of-left-leaves) |
+| [0407-trapping-rain-water-ii](https://github.com/blackaman0609/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/blackaman0609/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0787-sliding-puzzle](https://github.com/blackaman0609/LeetCode/tree/master/0787-sliding-puzzle) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/blackaman0609/LeetCode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
