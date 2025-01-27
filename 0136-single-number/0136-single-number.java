@@ -1,16 +1,3 @@
-// class Solution {
-//     public int singleNumber(int[] nums) {
-//         for(int i=0; i<nums.length; i++) {
-//             int sum = 1;
-//             if(nums[i]==nums[i+1]) {
-//                 sum = sum + 1;
-//             } if(sum==1) {
-//                 return nums[i];
-//             }
-//         }
-//         return -1;
-//     }
-// }
 
 class Solution {
     public int singleNumber(int[] arr) {
