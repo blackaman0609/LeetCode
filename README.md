@@ -94,6 +94,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/blackaman0609/LeetCode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/blackaman0609/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1502-construct-k-palindrome-strings](https://github.com/blackaman0609/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/blackaman0609/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2300-construct-string-with-repeat-limit](https://github.com/blackaman0609/LeetCode/tree/master/2300-construct-string-with-repeat-limit) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/blackaman0609/LeetCode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/blackaman0609/LeetCode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -243,6 +244,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/blackaman0609/LeetCode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/blackaman0609/LeetCode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/blackaman0609/LeetCode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/blackaman0609/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/blackaman0609/LeetCode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2232-adding-spaces-to-a-string](https://github.com/blackaman0609/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/blackaman0609/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
@@ -318,6 +320,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0169-majority-element](https://github.com/blackaman0609/LeetCode/tree/master/0169-majority-element) |
 | [1396-count-servers-that-communicate](https://github.com/blackaman0609/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [1502-construct-k-palindrome-strings](https://github.com/blackaman0609/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/blackaman0609/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2300-construct-string-with-repeat-limit](https://github.com/blackaman0609/LeetCode/tree/master/2300-construct-string-with-repeat-limit) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/blackaman0609/LeetCode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/blackaman0609/LeetCode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
