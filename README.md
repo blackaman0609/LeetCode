@@ -192,6 +192,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/blackaman0609/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/blackaman0609/LeetCode/tree/master/0169-majority-element) |
+| [0190-reverse-bits](https://github.com/blackaman0609/LeetCode/tree/master/0190-reverse-bits) |
 ## Tree
 |  |
 | ------- |
@@ -229,6 +230,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0029-divide-two-integers](https://github.com/blackaman0609/LeetCode/tree/master/0029-divide-two-integers) |
 | [0136-single-number](https://github.com/blackaman0609/LeetCode/tree/master/0136-single-number) |
+| [0190-reverse-bits](https://github.com/blackaman0609/LeetCode/tree/master/0190-reverse-bits) |
 | [0268-missing-number](https://github.com/blackaman0609/LeetCode/tree/master/0268-missing-number) |
 | [1940-maximum-xor-for-each-query](https://github.com/blackaman0609/LeetCode/tree/master/1940-maximum-xor-for-each-query) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/blackaman0609/LeetCode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
