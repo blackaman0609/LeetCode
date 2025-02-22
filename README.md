@@ -205,6 +205,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/blackaman0609/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0404-sum-of-left-leaves](https://github.com/blackaman0609/LeetCode/tree/master/0404-sum-of-left-leaves) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/blackaman0609/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [1093-recover-a-tree-from-preorder-traversal](https://github.com/blackaman0609/LeetCode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [3058-maximum-number-of-k-divisible-components](https://github.com/blackaman0609/LeetCode/tree/master/3058-maximum-number-of-k-divisible-components) |
 ## Binary Search Tree
 |  |
@@ -216,6 +217,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/blackaman0609/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0404-sum-of-left-leaves](https://github.com/blackaman0609/LeetCode/tree/master/0404-sum-of-left-leaves) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/blackaman0609/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [1093-recover-a-tree-from-preorder-traversal](https://github.com/blackaman0609/LeetCode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -252,6 +254,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0812-rotate-string](https://github.com/blackaman0609/LeetCode/tree/master/0812-rotate-string) |
 | [0952-word-subsets](https://github.com/blackaman0609/LeetCode/tree/master/0952-word-subsets) |
+| [1093-recover-a-tree-from-preorder-traversal](https://github.com/blackaman0609/LeetCode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1160-letter-tile-possibilities](https://github.com/blackaman0609/LeetCode/tree/master/1160-letter-tile-possibilities) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/blackaman0609/LeetCode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/blackaman0609/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
@@ -299,6 +302,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0684-redundant-connection](https://github.com/blackaman0609/LeetCode/tree/master/0684-redundant-connection) |
 | [0820-find-eventual-safe-states](https://github.com/blackaman0609/LeetCode/tree/master/0820-find-eventual-safe-states) |
 | [0854-making-a-large-island](https://github.com/blackaman0609/LeetCode/tree/master/0854-making-a-large-island) |
+| [1093-recover-a-tree-from-preorder-traversal](https://github.com/blackaman0609/LeetCode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/blackaman0609/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1396-count-servers-that-communicate](https://github.com/blackaman0609/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [1558-course-schedule-iv](https://github.com/blackaman0609/LeetCode/tree/master/1558-course-schedule-iv) |
