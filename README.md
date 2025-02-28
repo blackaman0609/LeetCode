@@ -241,6 +241,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/blackaman0609/LeetCode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1025-minimum-cost-for-tickets](https://github.com/blackaman0609/LeetCode/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/blackaman0609/LeetCode/tree/master/1063-best-sightseeing-pair) |
+| [1170-shortest-common-supersequence](https://github.com/blackaman0609/LeetCode/tree/master/1170-shortest-common-supersequence) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/blackaman0609/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/blackaman0609/LeetCode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/blackaman0609/LeetCode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
@@ -270,6 +271,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0952-word-subsets](https://github.com/blackaman0609/LeetCode/tree/master/0952-word-subsets) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/blackaman0609/LeetCode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1160-letter-tile-possibilities](https://github.com/blackaman0609/LeetCode/tree/master/1160-letter-tile-possibilities) |
+| [1170-shortest-common-supersequence](https://github.com/blackaman0609/LeetCode/tree/master/1170-shortest-common-supersequence) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/blackaman0609/LeetCode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/blackaman0609/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1502-construct-k-palindrome-strings](https://github.com/blackaman0609/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
