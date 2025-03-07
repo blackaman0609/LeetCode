@@ -141,6 +141,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0009-palindrome-number](https://github.com/blackaman0609/LeetCode/tree/master/0009-palindrome-number) |
 | [0029-divide-two-integers](https://github.com/blackaman0609/LeetCode/tree/master/0029-divide-two-integers) |
 | [0066-plus-one](https://github.com/blackaman0609/LeetCode/tree/master/0066-plus-one) |
+| [0258-add-digits](https://github.com/blackaman0609/LeetCode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/blackaman0609/LeetCode/tree/master/0268-missing-number) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/blackaman0609/LeetCode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [2448-count-number-of-bad-pairs](https://github.com/blackaman0609/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
@@ -309,6 +310,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/blackaman0609/LeetCode/tree/master/0258-add-digits) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/blackaman0609/LeetCode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [2232-adding-spaces-to-a-string](https://github.com/blackaman0609/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/blackaman0609/LeetCode/tree/master/2343-count-unguarded-cells-in-the-grid) |
@@ -418,6 +420,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Number Theory
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/blackaman0609/LeetCode/tree/master/0258-add-digits) |
 | [2716-prime-subtraction-operation](https://github.com/blackaman0609/LeetCode/tree/master/2716-prime-subtraction-operation) |
 ## Stack
 |  |
