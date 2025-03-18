@@ -149,6 +149,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0009-palindrome-number](https://github.com/blackaman0609/LeetCode/tree/master/0009-palindrome-number) |
 | [0029-divide-two-integers](https://github.com/blackaman0609/LeetCode/tree/master/0029-divide-two-integers) |
 | [0066-plus-one](https://github.com/blackaman0609/LeetCode/tree/master/0066-plus-one) |
+| [0070-climbing-stairs](https://github.com/blackaman0609/LeetCode/tree/master/0070-climbing-stairs) |
 | [0258-add-digits](https://github.com/blackaman0609/LeetCode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/blackaman0609/LeetCode/tree/master/0268-missing-number) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/blackaman0609/LeetCode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
@@ -254,6 +255,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/blackaman0609/LeetCode/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/blackaman0609/LeetCode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/blackaman0609/LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0494-target-sum](https://github.com/blackaman0609/LeetCode/tree/master/0494-target-sum) |
@@ -528,6 +530,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/blackaman0609/LeetCode/tree/master/0070-climbing-stairs) |
 | [0787-sliding-puzzle](https://github.com/blackaman0609/LeetCode/tree/master/0787-sliding-puzzle) |
 ## Shortest Path
 |  |
