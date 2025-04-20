@@ -30,6 +30,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/blackaman0609/LeetCode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0780-max-chunks-to-make-sorted](https://github.com/blackaman0609/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
 | [0787-sliding-puzzle](https://github.com/blackaman0609/LeetCode/tree/master/0787-sliding-puzzle) |
+| [0797-rabbits-in-forest](https://github.com/blackaman0609/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [0854-making-a-large-island](https://github.com/blackaman0609/LeetCode/tree/master/0854-making-a-large-island) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/blackaman0609/LeetCode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/blackaman0609/LeetCode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
@@ -122,6 +123,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0169-majority-element](https://github.com/blackaman0609/LeetCode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/blackaman0609/LeetCode/tree/master/0268-missing-number) |
 | [0768-partition-labels](https://github.com/blackaman0609/LeetCode/tree/master/0768-partition-labels) |
+| [0797-rabbits-in-forest](https://github.com/blackaman0609/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/blackaman0609/LeetCode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/blackaman0609/LeetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0952-word-subsets](https://github.com/blackaman0609/LeetCode/tree/master/0952-word-subsets) |
@@ -170,6 +172,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0258-add-digits](https://github.com/blackaman0609/LeetCode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/blackaman0609/LeetCode/tree/master/0268-missing-number) |
 | [0368-largest-divisible-subset](https://github.com/blackaman0609/LeetCode/tree/master/0368-largest-divisible-subset) |
+| [0797-rabbits-in-forest](https://github.com/blackaman0609/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/blackaman0609/LeetCode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/blackaman0609/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2050-count-good-numbers](https://github.com/blackaman0609/LeetCode/tree/master/2050-count-good-numbers) |
@@ -476,6 +479,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0011-container-with-most-water](https://github.com/blackaman0609/LeetCode/tree/master/0011-container-with-most-water) |
 | [0768-partition-labels](https://github.com/blackaman0609/LeetCode/tree/master/0768-partition-labels) |
 | [0780-max-chunks-to-make-sorted](https://github.com/blackaman0609/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
+| [0797-rabbits-in-forest](https://github.com/blackaman0609/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [1502-construct-k-palindrome-strings](https://github.com/blackaman0609/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
 | [1917-maximum-average-pass-ratio](https://github.com/blackaman0609/LeetCode/tree/master/1917-maximum-average-pass-ratio) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/blackaman0609/LeetCode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
