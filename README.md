@@ -170,6 +170,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3455-minimum-length-of-string-after-operations](https://github.com/blackaman0609/LeetCode/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/blackaman0609/LeetCode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/blackaman0609/LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
+| [3630-total-characters-in-string-after-transformations-ii](https://github.com/blackaman0609/LeetCode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 ## Linked List
 |  |
 | ------- |
@@ -204,6 +205,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3227-find-missing-and-repeated-values](https://github.com/blackaman0609/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/blackaman0609/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/blackaman0609/LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
+| [3630-total-characters-in-string-after-transformations-ii](https://github.com/blackaman0609/LeetCode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/blackaman0609/LeetCode/tree/master/3637-count-number-of-balanced-permutations) |
 ## Recursion
 |  |
@@ -337,6 +339,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2562-count-ways-to-build-good-strings](https://github.com/blackaman0609/LeetCode/tree/master/2562-count-ways-to-build-good-strings) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/blackaman0609/LeetCode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/blackaman0609/LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
+| [3630-total-characters-in-string-after-transformations-ii](https://github.com/blackaman0609/LeetCode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/blackaman0609/LeetCode/tree/master/3637-count-number-of-balanced-permutations) |
 ## Bit Manipulation
 |  |
@@ -397,6 +400,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3451-string-compression-iii](https://github.com/blackaman0609/LeetCode/tree/master/3451-string-compression-iii) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/blackaman0609/LeetCode/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/blackaman0609/LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
+| [3630-total-characters-in-string-after-transformations-ii](https://github.com/blackaman0609/LeetCode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/blackaman0609/LeetCode/tree/master/3637-count-number-of-balanced-permutations) |
 ## Simulation
 |  |
@@ -483,6 +487,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/blackaman0609/LeetCode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/blackaman0609/LeetCode/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/blackaman0609/LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
+| [3630-total-characters-in-string-after-transformations-ii](https://github.com/blackaman0609/LeetCode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 ## Prefix Sum
 |  |
 | ------- |
