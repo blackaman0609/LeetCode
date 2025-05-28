@@ -333,6 +333,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/blackaman0609/LeetCode/tree/master/0022-generate-parentheses) |
 | [0070-climbing-stairs](https://github.com/blackaman0609/LeetCode/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/blackaman0609/LeetCode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/blackaman0609/LeetCode/tree/master/0119-pascals-triangle-ii) |
@@ -386,6 +387,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/blackaman0609/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/blackaman0609/LeetCode/tree/master/0022-generate-parentheses) |
 | [0038-count-and-say](https://github.com/blackaman0609/LeetCode/tree/master/0038-count-and-say) |
 | [0768-partition-labels](https://github.com/blackaman0609/LeetCode/tree/master/0768-partition-labels) |
 | [0812-rotate-string](https://github.com/blackaman0609/LeetCode/tree/master/0812-rotate-string) |
@@ -644,6 +646,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/blackaman0609/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/blackaman0609/LeetCode/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/blackaman0609/LeetCode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/blackaman0609/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0494-target-sum](https://github.com/blackaman0609/LeetCode/tree/master/0494-target-sum) |
