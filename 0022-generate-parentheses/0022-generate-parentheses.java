@@ -1,29 +1,23 @@
-import java.util.*;
-
 class Solution {
+
     public List<String> generateParenthesis(int n) {
-        List<String> result = new ArrayList<>();
-        StringBuilder sb = new StringBuilder();
-        backtrack(n, 0, 0, sb, result);
+        ArrayList<String> result = new ArrayList<>();
+        solve(n, 0, 0, "", result);
         return result;
     }
 
-    private void backtrack(int n, int open, int close, StringBuilder sb, List<String> result) {
-        if (sb.length() == n * 2) {
-            result.add(sb.toString());
+    public void solve(int n, int op_count, int cl_count, String answer, ArrayList<String> result) {
+        if (op_count == n && cl_count == n) {
+            result.add(answer);
             return;
         }
 
-        if (open < n) {
-            sb.append('(');
-            backtrack(n, open + 1, close, sb, result);
-            sb.deleteCharAt(sb.length() - 1); // backtrack
+        if (op_count < n) {
+            solve(n, op_count + 1, cl_count, answer + "(", result);
         }
 
-        if (close < open) {
-            sb.append(')');
-            backtrack(n, open, close + 1, sb, result);
-            sb.deleteCharAt(sb.length() - 1); // backtrack
+        if (op_count > cl_count) {
+            solve(n, op_count, cl_count + 1, answer + ")", result);
         }
     }
 }
