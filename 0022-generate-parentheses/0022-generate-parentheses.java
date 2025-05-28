@@ -14,10 +14,12 @@ class Solution {
 
         if (op_count < n) {
             solve(n, op_count + 1, cl_count, answer + "(", result);
+            // answer = answer.substring(0,answer.length()-1);
         }
 
         if (op_count > cl_count) {
             solve(n, op_count, cl_count + 1, answer + ")", result);
+            // answer = answer.substring(0,answer.length()-1);
         }
     }
 }
