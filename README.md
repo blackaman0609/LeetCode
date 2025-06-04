@@ -202,6 +202,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0070-climbing-stairs](https://github.com/blackaman0609/LeetCode/tree/master/0070-climbing-stairs) |
 | [0258-add-digits](https://github.com/blackaman0609/LeetCode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/blackaman0609/LeetCode/tree/master/0268-missing-number) |
+| [0319-bulb-switcher](https://github.com/blackaman0609/LeetCode/tree/master/0319-bulb-switcher) |
 | [0368-largest-divisible-subset](https://github.com/blackaman0609/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [0797-rabbits-in-forest](https://github.com/blackaman0609/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/blackaman0609/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -722,6 +723,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Brainteaser
 |  |
 | ------- |
+| [0319-bulb-switcher](https://github.com/blackaman0609/LeetCode/tree/master/0319-bulb-switcher) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/blackaman0609/LeetCode/tree/master/2533-bitwise-xor-of-all-pairings) |
 ## Union Find
 |  |
