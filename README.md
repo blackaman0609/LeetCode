@@ -43,6 +43,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1063-best-sightseeing-pair](https://github.com/blackaman0609/LeetCode/tree/master/1063-best-sightseeing-pair) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/blackaman0609/LeetCode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1293-three-consecutive-odds](https://github.com/blackaman0609/LeetCode/tree/master/1293-three-consecutive-odds) |
+| [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/blackaman0609/LeetCode/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/blackaman0609/LeetCode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/blackaman0609/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1364-tuple-with-same-product](https://github.com/blackaman0609/LeetCode/tree/master/1364-tuple-with-same-product) |
@@ -205,6 +206,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0319-bulb-switcher](https://github.com/blackaman0609/LeetCode/tree/master/0319-bulb-switcher) |
 | [0368-largest-divisible-subset](https://github.com/blackaman0609/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [0797-rabbits-in-forest](https://github.com/blackaman0609/LeetCode/tree/master/0797-rabbits-in-forest) |
+| [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/blackaman0609/LeetCode/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/blackaman0609/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1500-count-largest-group](https://github.com/blackaman0609/LeetCode/tree/master/1500-count-largest-group) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/blackaman0609/LeetCode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
@@ -567,6 +569,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0768-partition-labels](https://github.com/blackaman0609/LeetCode/tree/master/0768-partition-labels) |
 | [0780-max-chunks-to-make-sorted](https://github.com/blackaman0609/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
 | [0797-rabbits-in-forest](https://github.com/blackaman0609/LeetCode/tree/master/0797-rabbits-in-forest) |
+| [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/blackaman0609/LeetCode/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1502-construct-k-palindrome-strings](https://github.com/blackaman0609/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
 | [1917-maximum-average-pass-ratio](https://github.com/blackaman0609/LeetCode/tree/master/1917-maximum-average-pass-ratio) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/blackaman0609/LeetCode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
