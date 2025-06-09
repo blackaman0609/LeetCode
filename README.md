@@ -486,6 +486,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Trie
 |  |
 | ------- |
+| [0440-k-th-smallest-in-lexicographical-order](https://github.com/blackaman0609/LeetCode/tree/master/0440-k-th-smallest-in-lexicographical-order) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/blackaman0609/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/blackaman0609/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Matrix
