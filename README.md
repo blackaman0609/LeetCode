@@ -24,6 +24,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0135-candy](https://github.com/blackaman0609/LeetCode/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/blackaman0609/LeetCode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/blackaman0609/LeetCode/tree/master/0169-majority-element) |
+| [0204-count-primes](https://github.com/blackaman0609/LeetCode/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/blackaman0609/LeetCode/tree/master/0268-missing-number) |
 | [0368-largest-divisible-subset](https://github.com/blackaman0609/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [0407-trapping-rain-water-ii](https://github.com/blackaman0609/LeetCode/tree/master/0407-trapping-rain-water-ii) |
@@ -203,6 +204,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0066-plus-one](https://github.com/blackaman0609/LeetCode/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/blackaman0609/LeetCode/tree/master/0070-climbing-stairs) |
 | [0172-factorial-trailing-zeroes](https://github.com/blackaman0609/LeetCode/tree/master/0172-factorial-trailing-zeroes) |
+| [0204-count-primes](https://github.com/blackaman0609/LeetCode/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/blackaman0609/LeetCode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/blackaman0609/LeetCode/tree/master/0268-missing-number) |
 | [0319-bulb-switcher](https://github.com/blackaman0609/LeetCode/tree/master/0319-bulb-switcher) |
@@ -597,6 +599,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/blackaman0609/LeetCode/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/blackaman0609/LeetCode/tree/master/0258-add-digits) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/blackaman0609/LeetCode/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2716-prime-subtraction-operation](https://github.com/blackaman0609/LeetCode/tree/master/2716-prime-subtraction-operation) |
@@ -776,6 +779,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/blackaman0609/LeetCode/tree/master/0204-count-primes) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/blackaman0609/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2998-count-symmetric-integers](https://github.com/blackaman0609/LeetCode/tree/master/2998-count-symmetric-integers) |
 | [3201-distribute-candies-among-children-ii](https://github.com/blackaman0609/LeetCode/tree/master/3201-distribute-candies-among-children-ii) |
