@@ -204,6 +204,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0002-add-two-numbers](https://github.com/blackaman0609/LeetCode/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/blackaman0609/LeetCode/tree/master/0009-palindrome-number) |
 | [0029-divide-two-integers](https://github.com/blackaman0609/LeetCode/tree/master/0029-divide-two-integers) |
+| [0062-unique-paths](https://github.com/blackaman0609/LeetCode/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/blackaman0609/LeetCode/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/blackaman0609/LeetCode/tree/master/0070-climbing-stairs) |
 | [0172-factorial-trailing-zeroes](https://github.com/blackaman0609/LeetCode/tree/master/0172-factorial-trailing-zeroes) |
@@ -350,6 +351,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/blackaman0609/LeetCode/tree/master/0022-generate-parentheses) |
+| [0062-unique-paths](https://github.com/blackaman0609/LeetCode/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/blackaman0609/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/blackaman0609/LeetCode/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/blackaman0609/LeetCode/tree/master/0118-pascals-triangle) |
@@ -779,6 +781,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Combinatorics
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/blackaman0609/LeetCode/tree/master/0062-unique-paths) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/blackaman0609/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/blackaman0609/LeetCode/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [3201-distribute-candies-among-children-ii](https://github.com/blackaman0609/LeetCode/tree/master/3201-distribute-candies-among-children-ii) |
