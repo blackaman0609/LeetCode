@@ -39,6 +39,47 @@ class Solution {
     }
 }
 
+
+// Tabulation
+
+// class Solution {
+   
+//     public int uniquePathsWithObstacles(int[][] grid)
+//     {
+//         int n = grid.length; 
+//         int m = grid[0].length;  
+//         int[][] memo = new int[n+1][m+1]; 
+//         int row,col; 
+//         for(row=0 ; row<=n ; row++)
+//         {
+//             for(col=0 ;col<=m ; col++)
+//             {
+//                if(row==0 || col==0)
+//                {
+//                 memo[row][col] = 0;
+//                }
+//                else if(row==1&&col==1&&grid[row-1][col-1]==0)
+//                {
+//                 memo[row][col]=1;
+//                }
+//                else 
+//                {
+//                  if(grid[row-1][col-1]==1)
+//                  {
+//                     memo[row][col] = 0;
+//                  }
+//                  else 
+//                  {
+//                     memo[row][col] = memo[row][col-1] + memo[row-1][col];
+//                  }
+//                }
+//             }
+//         }
+//         return memo[n][m];
+//     }
+// }
+
+
 // Recursion
 
 // class Solution {
