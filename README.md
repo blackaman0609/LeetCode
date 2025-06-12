@@ -13,6 +13,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0035-search-insert-position](https://github.com/blackaman0609/LeetCode/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/blackaman0609/LeetCode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/blackaman0609/LeetCode/tree/master/0040-combination-sum-ii) |
+| [0063-unique-paths-ii](https://github.com/blackaman0609/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/blackaman0609/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/blackaman0609/LeetCode/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/blackaman0609/LeetCode/tree/master/0073-set-matrix-zeroes) |
@@ -352,6 +353,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0022-generate-parentheses](https://github.com/blackaman0609/LeetCode/tree/master/0022-generate-parentheses) |
 | [0062-unique-paths](https://github.com/blackaman0609/LeetCode/tree/master/0062-unique-paths) |
+| [0063-unique-paths-ii](https://github.com/blackaman0609/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/blackaman0609/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/blackaman0609/LeetCode/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/blackaman0609/LeetCode/tree/master/0118-pascals-triangle) |
@@ -501,6 +503,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Matrix
 |  |
 | ------- |
+| [0063-unique-paths-ii](https://github.com/blackaman0609/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/blackaman0609/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/blackaman0609/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0407-trapping-rain-water-ii](https://github.com/blackaman0609/LeetCode/tree/master/0407-trapping-rain-water-ii) |
