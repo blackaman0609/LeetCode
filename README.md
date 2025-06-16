@@ -40,6 +40,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0854-making-a-large-island](https://github.com/blackaman0609/LeetCode/tree/master/0854-making-a-large-island) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/blackaman0609/LeetCode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/blackaman0609/LeetCode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
+| [0917-boats-to-save-people](https://github.com/blackaman0609/LeetCode/tree/master/0917-boats-to-save-people) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/blackaman0609/LeetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0952-word-subsets](https://github.com/blackaman0609/LeetCode/tree/master/0952-word-subsets) |
 | [1025-minimum-cost-for-tickets](https://github.com/blackaman0609/LeetCode/tree/master/1025-minimum-cost-for-tickets) |
@@ -260,6 +261,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0088-merge-sorted-array](https://github.com/blackaman0609/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0768-partition-labels](https://github.com/blackaman0609/LeetCode/tree/master/0768-partition-labels) |
 | [0868-push-dominoes](https://github.com/blackaman0609/LeetCode/tree/master/0868-push-dominoes) |
+| [0917-boats-to-save-people](https://github.com/blackaman0609/LeetCode/tree/master/0917-boats-to-save-people) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/blackaman0609/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/blackaman0609/LeetCode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/blackaman0609/LeetCode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
@@ -302,6 +304,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0268-missing-number](https://github.com/blackaman0609/LeetCode/tree/master/0268-missing-number) |
 | [0368-largest-divisible-subset](https://github.com/blackaman0609/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [0780-max-chunks-to-make-sorted](https://github.com/blackaman0609/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
+| [0917-boats-to-save-people](https://github.com/blackaman0609/LeetCode/tree/master/0917-boats-to-save-people) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/blackaman0609/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2164-two-best-non-overlapping-events](https://github.com/blackaman0609/LeetCode/tree/master/2164-two-best-non-overlapping-events) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/blackaman0609/LeetCode/tree/master/2179-most-beautiful-item-for-each-query) |
@@ -599,6 +602,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0768-partition-labels](https://github.com/blackaman0609/LeetCode/tree/master/0768-partition-labels) |
 | [0780-max-chunks-to-make-sorted](https://github.com/blackaman0609/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
 | [0797-rabbits-in-forest](https://github.com/blackaman0609/LeetCode/tree/master/0797-rabbits-in-forest) |
+| [0917-boats-to-save-people](https://github.com/blackaman0609/LeetCode/tree/master/0917-boats-to-save-people) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/blackaman0609/LeetCode/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1502-construct-k-palindrome-strings](https://github.com/blackaman0609/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/blackaman0609/LeetCode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
