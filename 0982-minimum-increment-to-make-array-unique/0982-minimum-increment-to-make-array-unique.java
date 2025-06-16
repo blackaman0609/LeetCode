@@ -15,8 +15,7 @@ class Solution {
     }
 }
 
-
-
+// Brute force approach
 
 // class Solution {
 //     public int minIncrementForUnique(int[] nums) {
