@@ -397,6 +397,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2061-painting-a-grid-with-three-different-colors](https://github.com/blackaman0609/LeetCode/tree/master/2061-painting-a-grid-with-three-different-colors) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/blackaman0609/LeetCode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2164-two-best-non-overlapping-events](https://github.com/blackaman0609/LeetCode/tree/master/2164-two-best-non-overlapping-events) |
+| [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/blackaman0609/LeetCode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/blackaman0609/LeetCode/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2562-count-ways-to-build-good-strings](https://github.com/blackaman0609/LeetCode/tree/master/2562-count-ways-to-build-good-strings) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/blackaman0609/LeetCode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
@@ -458,6 +459,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/blackaman0609/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/blackaman0609/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2300-construct-string-with-repeat-limit](https://github.com/blackaman0609/LeetCode/tree/master/2300-construct-string-with-repeat-limit) |
+| [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/blackaman0609/LeetCode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/blackaman0609/LeetCode/tree/master/2414-move-pieces-to-obtain-a-string) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/blackaman0609/LeetCode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2580-circular-sentence](https://github.com/blackaman0609/LeetCode/tree/master/2580-circular-sentence) |
@@ -625,6 +627,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/blackaman0609/LeetCode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/blackaman0609/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2300-construct-string-with-repeat-limit](https://github.com/blackaman0609/LeetCode/tree/master/2300-construct-string-with-repeat-limit) |
+| [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/blackaman0609/LeetCode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2509-minimize-xor](https://github.com/blackaman0609/LeetCode/tree/master/2509-minimize-xor) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/blackaman0609/LeetCode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/blackaman0609/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
@@ -758,6 +761,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0070-climbing-stairs](https://github.com/blackaman0609/LeetCode/tree/master/0070-climbing-stairs) |
 | [0787-sliding-puzzle](https://github.com/blackaman0609/LeetCode/tree/master/0787-sliding-puzzle) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/blackaman0609/LeetCode/tree/master/1986-largest-color-value-in-a-directed-graph) |
+| [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/blackaman0609/LeetCode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 ## Shortest Path
 |  |
 | ------- |
