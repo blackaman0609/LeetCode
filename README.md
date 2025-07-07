@@ -13,6 +13,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0035-search-insert-position](https://github.com/blackaman0609/LeetCode/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/blackaman0609/LeetCode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/blackaman0609/LeetCode/tree/master/0040-combination-sum-ii) |
+| [0053-maximum-subarray](https://github.com/blackaman0609/LeetCode/tree/master/0053-maximum-subarray) |
 | [0063-unique-paths-ii](https://github.com/blackaman0609/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/blackaman0609/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/blackaman0609/LeetCode/tree/master/0066-plus-one) |
@@ -346,6 +347,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/blackaman0609/LeetCode/tree/master/0053-maximum-subarray) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/blackaman0609/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/blackaman0609/LeetCode/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/blackaman0609/LeetCode/tree/master/0190-reverse-bits) |
@@ -382,6 +384,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/blackaman0609/LeetCode/tree/master/0022-generate-parentheses) |
+| [0053-maximum-subarray](https://github.com/blackaman0609/LeetCode/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/blackaman0609/LeetCode/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/blackaman0609/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/blackaman0609/LeetCode/tree/master/0064-minimum-path-sum) |
