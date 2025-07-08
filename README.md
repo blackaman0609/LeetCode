@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0011-container-with-most-water](https://github.com/blackaman0609/LeetCode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/blackaman0609/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/blackaman0609/LeetCode/tree/master/0027-remove-element) |
+| [0033-search-in-rotated-sorted-array](https://github.com/blackaman0609/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/blackaman0609/LeetCode/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/blackaman0609/LeetCode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/blackaman0609/LeetCode/tree/master/0040-combination-sum-ii) |
@@ -292,6 +293,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/blackaman0609/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/blackaman0609/LeetCode/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/blackaman0609/LeetCode/tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/blackaman0609/LeetCode/tree/master/0300-longest-increasing-subsequence) |
