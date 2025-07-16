@@ -15,6 +15,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0035-search-insert-position](https://github.com/blackaman0609/LeetCode/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/blackaman0609/LeetCode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/blackaman0609/LeetCode/tree/master/0040-combination-sum-ii) |
+| [0042-trapping-rain-water](https://github.com/blackaman0609/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/blackaman0609/LeetCode/tree/master/0053-maximum-subarray) |
 | [0063-unique-paths-ii](https://github.com/blackaman0609/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/blackaman0609/LeetCode/tree/master/0064-minimum-path-sum) |
@@ -281,6 +282,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0026-remove-duplicates-from-sorted-array](https://github.com/blackaman0609/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/blackaman0609/LeetCode/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/blackaman0609/LeetCode/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/blackaman0609/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/blackaman0609/LeetCode/tree/master/0075-sort-colors) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/blackaman0609/LeetCode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0088-merge-sorted-array](https://github.com/blackaman0609/LeetCode/tree/master/0088-merge-sorted-array) |
@@ -398,6 +400,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/blackaman0609/LeetCode/tree/master/0022-generate-parentheses) |
+| [0042-trapping-rain-water](https://github.com/blackaman0609/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/blackaman0609/LeetCode/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/blackaman0609/LeetCode/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/blackaman0609/LeetCode/tree/master/0063-unique-paths-ii) |
@@ -693,6 +696,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/blackaman0609/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0394-decode-string](https://github.com/blackaman0609/LeetCode/tree/master/0394-decode-string) |
 | [0780-max-chunks-to-make-sorted](https://github.com/blackaman0609/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/blackaman0609/LeetCode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
@@ -705,6 +709,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/blackaman0609/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0780-max-chunks-to-make-sorted](https://github.com/blackaman0609/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/blackaman0609/LeetCode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/blackaman0609/LeetCode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
