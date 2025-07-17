@@ -29,6 +29,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/blackaman0609/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0135-candy](https://github.com/blackaman0609/LeetCode/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/blackaman0609/LeetCode/tree/master/0136-single-number) |
+| [0152-maximum-product-subarray](https://github.com/blackaman0609/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/blackaman0609/LeetCode/tree/master/0169-majority-element) |
 | [0204-count-primes](https://github.com/blackaman0609/LeetCode/tree/master/0204-count-primes) |
 | [0215-kth-largest-element-in-an-array](https://github.com/blackaman0609/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
@@ -410,6 +411,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0118-pascals-triangle](https://github.com/blackaman0609/LeetCode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/blackaman0609/LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/blackaman0609/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0152-maximum-product-subarray](https://github.com/blackaman0609/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0221-maximal-square](https://github.com/blackaman0609/LeetCode/tree/master/0221-maximal-square) |
 | [0300-longest-increasing-subsequence](https://github.com/blackaman0609/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0343-integer-break](https://github.com/blackaman0609/LeetCode/tree/master/0343-integer-break) |
