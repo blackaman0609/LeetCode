@@ -175,6 +175,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0017-letter-combinations-of-a-phone-number](https://github.com/blackaman0609/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0073-set-matrix-zeroes](https://github.com/blackaman0609/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/blackaman0609/LeetCode/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/blackaman0609/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/blackaman0609/LeetCode/tree/master/0268-missing-number) |
 | [0768-partition-labels](https://github.com/blackaman0609/LeetCode/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/blackaman0609/LeetCode/tree/master/0797-rabbits-in-forest) |
@@ -345,6 +346,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0088-merge-sorted-array](https://github.com/blackaman0609/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/blackaman0609/LeetCode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/blackaman0609/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0242-valid-anagram](https://github.com/blackaman0609/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/blackaman0609/LeetCode/tree/master/0268-missing-number) |
 | [0368-largest-divisible-subset](https://github.com/blackaman0609/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [0780-max-chunks-to-make-sorted](https://github.com/blackaman0609/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
@@ -484,6 +486,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0022-generate-parentheses](https://github.com/blackaman0609/LeetCode/tree/master/0022-generate-parentheses) |
 | [0038-count-and-say](https://github.com/blackaman0609/LeetCode/tree/master/0038-count-and-say) |
 | [0125-valid-palindrome](https://github.com/blackaman0609/LeetCode/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/blackaman0609/LeetCode/tree/master/0242-valid-anagram) |
 | [0394-decode-string](https://github.com/blackaman0609/LeetCode/tree/master/0394-decode-string) |
 | [0516-longest-palindromic-subsequence](https://github.com/blackaman0609/LeetCode/tree/master/0516-longest-palindromic-subsequence) |
 | [0768-partition-labels](https://github.com/blackaman0609/LeetCode/tree/master/0768-partition-labels) |
