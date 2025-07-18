@@ -293,6 +293,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0075-sort-colors](https://github.com/blackaman0609/LeetCode/tree/master/0075-sort-colors) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/blackaman0609/LeetCode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0088-merge-sorted-array](https://github.com/blackaman0609/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/blackaman0609/LeetCode/tree/master/0125-valid-palindrome) |
 | [0768-partition-labels](https://github.com/blackaman0609/LeetCode/tree/master/0768-partition-labels) |
 | [0868-push-dominoes](https://github.com/blackaman0609/LeetCode/tree/master/0868-push-dominoes) |
 | [0917-boats-to-save-people](https://github.com/blackaman0609/LeetCode/tree/master/0917-boats-to-save-people) |
@@ -482,6 +483,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0017-letter-combinations-of-a-phone-number](https://github.com/blackaman0609/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/blackaman0609/LeetCode/tree/master/0022-generate-parentheses) |
 | [0038-count-and-say](https://github.com/blackaman0609/LeetCode/tree/master/0038-count-and-say) |
+| [0125-valid-palindrome](https://github.com/blackaman0609/LeetCode/tree/master/0125-valid-palindrome) |
 | [0394-decode-string](https://github.com/blackaman0609/LeetCode/tree/master/0394-decode-string) |
 | [0516-longest-palindromic-subsequence](https://github.com/blackaman0609/LeetCode/tree/master/0516-longest-palindromic-subsequence) |
 | [0768-partition-labels](https://github.com/blackaman0609/LeetCode/tree/master/0768-partition-labels) |
