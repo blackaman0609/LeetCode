@@ -10,9 +10,9 @@ class Solution {
         Arrays.sort(array2);
         t = new String(array2);
 
-        // return Arrays.equals(array1, array2);
+        return Arrays.equals(array1, array2);
 
-        return s.equals(t);
+        // return s.equals(t);
 
     }
 }
