@@ -1,23 +1,21 @@
-import java.util.ArrayList;
-import java.util.Arrays;
-import java.util.List;
+import java.util.*;
 
 class Solution {
     public List<String> removeSubfolders(String[] folder) {
-        // Sort the folder paths lexicographically
         Arrays.sort(folder);
-        
-        List<String> result = new ArrayList<>();
-        String prev = "";  // This keeps track of the last valid folder added to result
-        
-        for (String current : folder) {
-            // Check if `current` is a subfolder of `prev`
-            if (prev.isEmpty() || !current.startsWith(prev + "/")) {
-                result.add(current);
-                prev = current;  // Update `prev` to the latest valid folder
+        List<String> res = new ArrayList<>();
+        for (String f : folder) {
+            if (res.isEmpty()) {
+                res.add(f);
+            } else {
+                String prev = res.get(res.size() - 1);
+                if (f.startsWith(prev) && f.length() > prev.length() && f.charAt(prev.length()) == '/') {
+                    continue;
+                } else {
+                    res.add(f);
+                }
             }
         }
-        
-        return result;
+        return res;
     }
 }
