@@ -918,5 +918,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Database
 |  |
 | ------- |
+| [1908-recyclable-and-low-fat-products](https://github.com/blackaman0609/LeetCode/tree/master/1908-recyclable-and-low-fat-products) |
 | [2087-confirmation-rate](https://github.com/blackaman0609/LeetCode/tree/master/2087-confirmation-rate) |
 <!---LeetCode Topics End-->
